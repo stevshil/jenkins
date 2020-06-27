@@ -5,3 +5,9 @@
 [submodule "ansible-role-jenkins"]
 	path = roles/ansible-role-jenkins
 	url = https://github.com/geerlingguy/ansible-role-jenkins.git
+[submodule "roles/geerlingguy.java"]
+	path = roles/geerlingguy.java
+	url = https://github.com/geerlingguy/ansible-role-java.git
+[submodule "roles/ansible-role-jenkins"]
+	path = roles/ansible-role-jenkins
+	url = https://github.com/geerlingguy/ansible-role-jenkins.git
